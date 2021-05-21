@@ -160,7 +160,7 @@ async def qt(event):
       async with tbot.action(event.chat_id, 'typing'):
            await event.reply(text)
  except CFError as e:
-           await event.reply('Error Report @HaritaSupport')
+           await event.reply('Error Report @magiclmush')
 
 file_help = os.path.basename(__file__)
 file_help = file_help.replace(".py", "")
