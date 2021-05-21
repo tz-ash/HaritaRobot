@@ -168,12 +168,12 @@ file_helpo = file_help.replace("_", " ")
 
 __help__ = """
 **For text assistant**
- - /harita <question>: Ask harita any question and it will give accurate reply. For eg: `/harita where is Taj Mahal`, `/harita what is the age of Virat Kohli` etc..
+ - /Axia <question>: Ask Axia any question and it will give accurate reply. For eg: `/Axia where is Taj Mahal`, `/Axia what is the age of Virat Kohli` etc..
 **For voice assistant**
- - /harita: Reply to a voice query and get the results in voice output (ENGLISH ONLY)
+ - /Axia: Reply to a voice query and get the results in voice output (ENGLISH ONLY)
  
 **Terminal Assistant**
- - /howdoi <question>: Get all coding related answers from Harita. Syntax: `/howdoi print hello world in python`
+ - /howdoi <question>: Get all coding related answers from Axia. Syntax: `/howdoi print hello world in python`
  
  - /quote: Provides quotes of famous personalities
 **NOTE**
